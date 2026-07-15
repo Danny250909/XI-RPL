@@ -1,0 +1,14 @@
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\bin\Debug\net10.0\DasarDasar.exe
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\bin\Debug\net10.0\DasarDasar.deps.json
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\bin\Debug\net10.0\DasarDasar.runtimeconfig.json
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\bin\Debug\net10.0\DasarDasar.dll
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\bin\Debug\net10.0\DasarDasar.pdb
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\obj\Debug\net10.0\DasarDasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\obj\Debug\net10.0\DasarDasar.AssemblyInfoInputs.cache
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\obj\Debug\net10.0\DasarDasar.AssemblyInfo.cs
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\obj\Debug\net10.0\DasarDasar.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\obj\Debug\net10.0\DasarDasar.dll
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\obj\Debug\net10.0\refint\DasarDasar.dll
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\obj\Debug\net10.0\DasarDasar.pdb
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\obj\Debug\net10.0\DasarDasar.genruntimeconfig.cache
+C:\xampp\htdocs\11-RPL\DasarDasar\DasarDasar\obj\Debug\net10.0\ref\DasarDasar.dll
