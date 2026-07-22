@@ -1,0 +1,14 @@
+C:\xampp\htdocs\11-RPL\namespace\bin\Debug\net10.0\namespace.exe
+C:\xampp\htdocs\11-RPL\namespace\bin\Debug\net10.0\namespace.deps.json
+C:\xampp\htdocs\11-RPL\namespace\bin\Debug\net10.0\namespace.runtimeconfig.json
+C:\xampp\htdocs\11-RPL\namespace\bin\Debug\net10.0\namespace.dll
+C:\xampp\htdocs\11-RPL\namespace\bin\Debug\net10.0\namespace.pdb
+C:\xampp\htdocs\11-RPL\namespace\obj\Debug\net10.0\namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\11-RPL\namespace\obj\Debug\net10.0\namespace.AssemblyInfoInputs.cache
+C:\xampp\htdocs\11-RPL\namespace\obj\Debug\net10.0\namespace.AssemblyInfo.cs
+C:\xampp\htdocs\11-RPL\namespace\obj\Debug\net10.0\namespace.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\11-RPL\namespace\obj\Debug\net10.0\namespace.dll
+C:\xampp\htdocs\11-RPL\namespace\obj\Debug\net10.0\refint\namespace.dll
+C:\xampp\htdocs\11-RPL\namespace\obj\Debug\net10.0\namespace.pdb
+C:\xampp\htdocs\11-RPL\namespace\obj\Debug\net10.0\namespace.genruntimeconfig.cache
+C:\xampp\htdocs\11-RPL\namespace\obj\Debug\net10.0\ref\namespace.dll
