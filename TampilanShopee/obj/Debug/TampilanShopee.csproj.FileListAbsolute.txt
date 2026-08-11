@@ -1,0 +1,10 @@
+C:\xampp\htdocs\11-RPL\TampilanShopee\obj\Debug\TampilanShopee.csproj.AssemblyReference.cache
+C:\xampp\htdocs\11-RPL\TampilanShopee\obj\Debug\TampilanShopee.Form1.resources
+C:\xampp\htdocs\11-RPL\TampilanShopee\obj\Debug\TampilanShopee.csproj.GenerateResource.cache
+C:\xampp\htdocs\11-RPL\TampilanShopee\obj\Debug\TampilanShopee.Properties.Resources.resources
+C:\xampp\htdocs\11-RPL\TampilanShopee\obj\Debug\TampilanShopee.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\11-RPL\TampilanShopee\bin\Debug\TampilanShopee.exe.config
+C:\xampp\htdocs\11-RPL\TampilanShopee\bin\Debug\TampilanShopee.exe
+C:\xampp\htdocs\11-RPL\TampilanShopee\bin\Debug\TampilanShopee.pdb
+C:\xampp\htdocs\11-RPL\TampilanShopee\obj\Debug\TampilanShopee.exe
+C:\xampp\htdocs\11-RPL\TampilanShopee\obj\Debug\TampilanShopee.pdb
