@@ -1,0 +1,10 @@
+C:\xampp\htdocs\11-RPL\Pengonversi-Suhu\bin\Debug\Pengonversi-Suhu.exe.config
+C:\xampp\htdocs\11-RPL\Pengonversi-Suhu\bin\Debug\Pengonversi-Suhu.exe
+C:\xampp\htdocs\11-RPL\Pengonversi-Suhu\bin\Debug\Pengonversi-Suhu.pdb
+C:\xampp\htdocs\11-RPL\Pengonversi-Suhu\obj\Debug\Pengonversi-Suhu.csproj.AssemblyReference.cache
+C:\xampp\htdocs\11-RPL\Pengonversi-Suhu\obj\Debug\Pengonversi_Suhu.Form1.resources
+C:\xampp\htdocs\11-RPL\Pengonversi-Suhu\obj\Debug\Pengonversi_Suhu.Properties.Resources.resources
+C:\xampp\htdocs\11-RPL\Pengonversi-Suhu\obj\Debug\Pengonversi-Suhu.csproj.GenerateResource.cache
+C:\xampp\htdocs\11-RPL\Pengonversi-Suhu\obj\Debug\Pengonversi-Suhu.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\11-RPL\Pengonversi-Suhu\obj\Debug\Pengonversi-Suhu.exe
+C:\xampp\htdocs\11-RPL\Pengonversi-Suhu\obj\Debug\Pengonversi-Suhu.pdb
