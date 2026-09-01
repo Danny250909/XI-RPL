@@ -1,0 +1,56 @@
+C:\Users\user\source\repos\AdminDesign\AdminDesign\bin\Debug\AdminDesign.exe.config
+C:\Users\user\source\repos\AdminDesign\AdminDesign\bin\Debug\AdminDesign.exe
+C:\Users\user\source\repos\AdminDesign\AdminDesign\bin\Debug\AdminDesign.pdb
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form1.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form2Register.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form3Dashboard.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Properties.Resources.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.exe
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.pdb
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form4Bandara.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form5Maskapai.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form6JadwalPenerbangan.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form7KodePromo.resources
+C:\Users\user\source\repos\AdminDesign\AdminDesign\obj\Debug\AdminDesign.Form8UbahStatusPenerbangan.resources
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\bin\Debug\AdminDesign.exe.config
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\bin\Debug\AdminDesign.exe
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\bin\Debug\AdminDesign.pdb
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.csproj.AssemblyReference.cache
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.Form1.resources
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.Form2Register.resources
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.Form3Dashboard.resources
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.Form4Bandara.resources
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.Form5Maskapai.resources
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.Form6JadwalPenerbangan.resources
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.Form7KodePromo.resources
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.Form8UbahStatusPenerbangan.resources
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.Properties.Resources.resources
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.csproj.GenerateResource.cache
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.csproj.CoreCompileInputs.cache
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.exe
+C:\Users\Akbar\source\repos\Project 2 Window Form\AdminDesign\obj\Debug\AdminDesign.pdb
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\bin\Debug\AdminDesign.exe.config
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\bin\Debug\AdminDesign.exe
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\bin\Debug\AdminDesign.pdb
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.csproj.AssemblyReference.cache
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form1.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form2Register.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form3Dashboard.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form4Bandara.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form5Maskapai.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form6JadwalPenerbangan.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form7KodePromo.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form8UbahStatusPenerbangan.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Properties.Resources.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.csproj.GenerateResource.cache
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.exe
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.pdb
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form9CustomerMain.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form10_ListPenerbangan.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form11_BeliTiket.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.Form12_TiketSaya.resources
+C:\xampp\htdocs\11-RPL\WindowsForm\Admin Form\AdminDesign\obj\Debug\AdminDesign.PenumpangControl.resources
