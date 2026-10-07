@@ -1,0 +1,14 @@
+C:\Users\USER\source\Data Siswa\bin\Debug\net10.0\Data Siswa.exe
+C:\Users\USER\source\Data Siswa\bin\Debug\net10.0\Data Siswa.deps.json
+C:\Users\USER\source\Data Siswa\bin\Debug\net10.0\Data Siswa.runtimeconfig.json
+C:\Users\USER\source\Data Siswa\bin\Debug\net10.0\Data Siswa.dll
+C:\Users\USER\source\Data Siswa\bin\Debug\net10.0\Data Siswa.pdb
+C:\Users\USER\source\Data Siswa\obj\Debug\net10.0\Data Siswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\Data Siswa\obj\Debug\net10.0\Data Siswa.AssemblyInfoInputs.cache
+C:\Users\USER\source\Data Siswa\obj\Debug\net10.0\Data Siswa.AssemblyInfo.cs
+C:\Users\USER\source\Data Siswa\obj\Debug\net10.0\Data Siswa.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\Data Siswa\obj\Debug\net10.0\Data Siswa.dll
+C:\Users\USER\source\Data Siswa\obj\Debug\net10.0\refint\Data Siswa.dll
+C:\Users\USER\source\Data Siswa\obj\Debug\net10.0\Data Siswa.pdb
+C:\Users\USER\source\Data Siswa\obj\Debug\net10.0\Data Siswa.genruntimeconfig.cache
+C:\Users\USER\source\Data Siswa\obj\Debug\net10.0\ref\Data Siswa.dll
