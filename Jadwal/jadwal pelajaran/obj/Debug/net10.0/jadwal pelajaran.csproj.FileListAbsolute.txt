@@ -1,0 +1,14 @@
+C:\Users\USER\source\jadwal\jadwal pelajaran\bin\Debug\net10.0\jadwal pelajaran.exe
+C:\Users\USER\source\jadwal\jadwal pelajaran\bin\Debug\net10.0\jadwal pelajaran.deps.json
+C:\Users\USER\source\jadwal\jadwal pelajaran\bin\Debug\net10.0\jadwal pelajaran.runtimeconfig.json
+C:\Users\USER\source\jadwal\jadwal pelajaran\bin\Debug\net10.0\jadwal pelajaran.dll
+C:\Users\USER\source\jadwal\jadwal pelajaran\bin\Debug\net10.0\jadwal pelajaran.pdb
+C:\Users\USER\source\jadwal\jadwal pelajaran\obj\Debug\net10.0\jadwal pelajaran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\jadwal\jadwal pelajaran\obj\Debug\net10.0\jadwal pelajaran.AssemblyInfoInputs.cache
+C:\Users\USER\source\jadwal\jadwal pelajaran\obj\Debug\net10.0\jadwal pelajaran.AssemblyInfo.cs
+C:\Users\USER\source\jadwal\jadwal pelajaran\obj\Debug\net10.0\jadwal pelajaran.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\jadwal\jadwal pelajaran\obj\Debug\net10.0\jadwal pelajaran.dll
+C:\Users\USER\source\jadwal\jadwal pelajaran\obj\Debug\net10.0\refint\jadwal pelajaran.dll
+C:\Users\USER\source\jadwal\jadwal pelajaran\obj\Debug\net10.0\jadwal pelajaran.pdb
+C:\Users\USER\source\jadwal\jadwal pelajaran\obj\Debug\net10.0\jadwal pelajaran.genruntimeconfig.cache
+C:\Users\USER\source\jadwal\jadwal pelajaran\obj\Debug\net10.0\ref\jadwal pelajaran.dll
