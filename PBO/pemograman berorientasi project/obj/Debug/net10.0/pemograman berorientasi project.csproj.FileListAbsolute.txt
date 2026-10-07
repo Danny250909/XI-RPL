@@ -1,0 +1,14 @@
+C:\Users\USER\source\PBO\pemograman berorientasi project\bin\Debug\net10.0\pemograman berorientasi project.exe
+C:\Users\USER\source\PBO\pemograman berorientasi project\bin\Debug\net10.0\pemograman berorientasi project.deps.json
+C:\Users\USER\source\PBO\pemograman berorientasi project\bin\Debug\net10.0\pemograman berorientasi project.runtimeconfig.json
+C:\Users\USER\source\PBO\pemograman berorientasi project\bin\Debug\net10.0\pemograman berorientasi project.dll
+C:\Users\USER\source\PBO\pemograman berorientasi project\bin\Debug\net10.0\pemograman berorientasi project.pdb
+C:\Users\USER\source\PBO\pemograman berorientasi project\obj\Debug\net10.0\pemograman berorientasi project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\PBO\pemograman berorientasi project\obj\Debug\net10.0\pemograman berorientasi project.AssemblyInfoInputs.cache
+C:\Users\USER\source\PBO\pemograman berorientasi project\obj\Debug\net10.0\pemograman berorientasi project.AssemblyInfo.cs
+C:\Users\USER\source\PBO\pemograman berorientasi project\obj\Debug\net10.0\pemograman berorientasi project.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\PBO\pemograman berorientasi project\obj\Debug\net10.0\pemograman berorientasi project.dll
+C:\Users\USER\source\PBO\pemograman berorientasi project\obj\Debug\net10.0\refint\pemograman berorientasi project.dll
+C:\Users\USER\source\PBO\pemograman berorientasi project\obj\Debug\net10.0\pemograman berorientasi project.pdb
+C:\Users\USER\source\PBO\pemograman berorientasi project\obj\Debug\net10.0\pemograman berorientasi project.genruntimeconfig.cache
+C:\Users\USER\source\PBO\pemograman berorientasi project\obj\Debug\net10.0\ref\pemograman berorientasi project.dll
